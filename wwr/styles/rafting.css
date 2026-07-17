@@ -88,3 +88,23 @@ h1 {
     width: 32px;
     height: 32px;
 }
+
+header {
+    background-color: var(--primary-color);
+    color: var(--accent2-color);
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: var(--accent2-color);
+}
+
+nav a {
+    color: var(--accent2-color);
+    text-decoration: none;
+}
+
+.hero article {
+    background-color: var(--secondary-color);
+    color: #fff;
+}
